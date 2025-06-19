@@ -2,7 +2,7 @@
 
 baseURL = "https://resume-demo.bas.work/"
 languageCode = "en"
-title = "John Doe"
+title = "John Doe!"
 enableGitInfo = false
 googleAnalytics = "UA-XXXXXXX-Y"
 
